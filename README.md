@@ -20,12 +20,12 @@ Welcome to **NewsPortal**, a simple news portal project written in **native PHP*
 ### 1. Clone the repository to your local machine:
 
 ```cmd
-git clone https://github.com/Bagai35/NewsPortal-KPB
+git clone https://github.com/Bagai35/NewsPortal
 ```
 
 2. Navigate to the project directory: 
 ```cmd
-cd NewsPortal-KPB
+cd NewsPortal
 ```
 ### 3. Import the provided SQL database into your PHPMyAdmin:
 
