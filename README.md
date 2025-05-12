@@ -1,6 +1,6 @@
-# `NewsPortal-KPB` 
+# `NewsPortal` 
 
-Welcome to **NewsPortal-KPB**, a simple news portal project written in **native PHP** with an **attached database**. This project aims to provide a platform for publishing and managing news articles efficiently.
+Welcome to **NewsPortal**, a simple news portal project written in **native PHP** with an **attached database**. This project aims to provide a platform for publishing and managing news articles efficiently.
 
 ## Features
 
