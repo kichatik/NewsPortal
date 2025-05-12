@@ -57,7 +57,7 @@ define('DB_NAME', 'newsportal');
 
 Start your local server (e.g., using XAMPP, WAMP, MAMP).
 
-Visit http://localhost/NewsPortal-KPB in your web browser to access the application.
+Visit http://localhost/NewsPortal in your web browser to access the application.
 
 ## Usage
 
